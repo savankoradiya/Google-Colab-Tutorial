@@ -16,7 +16,7 @@ Edit > Notebook settings or Runtime>Change runtime type and select GPU as Hardwa
 !cat /proc/meminfo
 ```
 
-### CPU Setting
+### CPU Info
 
 ```
 !cat /proc/cpuinfo
